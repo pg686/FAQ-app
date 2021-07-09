@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 function FAQ({faq, index, openFAQ}) {
     return (
         <div
-          className={"faq " + (faq.open ? 'open' : '')}
+          className={'faq ' + (faq.open ? 'open' : '')}
           key={index}
           onClick={() => openFAQ(index)}
           >
@@ -15,7 +15,7 @@ function FAQ({faq, index, openFAQ}) {
               </div>
             
         </div>
-    )
+    );
 }
 
-export default FAQ
+export default FAQ;

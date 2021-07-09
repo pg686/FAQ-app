@@ -66,12 +66,12 @@ function App() {
   function openFaq(index){
     setfaqs(faqs.map((faq,i) => {
 if(i===index){
- faq.open = !faq.open 
+ faq.open = !faq.open;
 }else{
   faq.open = false;
 }
 return faq;
-    }))
+    }));
   }
 
 
@@ -80,7 +80,7 @@ return faq;
         <Header />
         <div className="faqs">
           {faqs.map((faq,i) => (
-            <FAQ faq={faq} index={i}  openFAQ={openFaq}/>
+            <FAQ faq={faq}  index={i}  openFAQ={openFaq}/>
            
           ))}
         </div>
