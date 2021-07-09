@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pg686/faq-app.git/static/css/main.165e8b45.chunk.css",
-    "main.js": "/pg686/faq-app.git/static/js/main.8c64fe1c.chunk.js",
-    "main.js.map": "/pg686/faq-app.git/static/js/main.8c64fe1c.chunk.js.map",
-    "runtime-main.js": "/pg686/faq-app.git/static/js/runtime-main.5e19b27c.js",
-    "runtime-main.js.map": "/pg686/faq-app.git/static/js/runtime-main.5e19b27c.js.map",
-    "static/js/2.82656611.chunk.js": "/pg686/faq-app.git/static/js/2.82656611.chunk.js",
-    "static/js/2.82656611.chunk.js.map": "/pg686/faq-app.git/static/js/2.82656611.chunk.js.map",
-    "static/js/3.df5edf0a.chunk.js": "/pg686/faq-app.git/static/js/3.df5edf0a.chunk.js",
-    "static/js/3.df5edf0a.chunk.js.map": "/pg686/faq-app.git/static/js/3.df5edf0a.chunk.js.map",
-    "index.html": "/pg686/faq-app.git/index.html",
-    "static/css/main.165e8b45.chunk.css.map": "/pg686/faq-app.git/static/css/main.165e8b45.chunk.css.map",
-    "static/js/2.82656611.chunk.js.LICENSE.txt": "/pg686/faq-app.git/static/js/2.82656611.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/pg686/faq-app.git/static/media/arrow-80.10bebdef.svg"
+    "main.css": "/faq-app/static/css/main.26734d89.chunk.css",
+    "main.js": "/faq-app/static/js/main.8c64fe1c.chunk.js",
+    "main.js.map": "/faq-app/static/js/main.8c64fe1c.chunk.js.map",
+    "runtime-main.js": "/faq-app/static/js/runtime-main.1851f34c.js",
+    "runtime-main.js.map": "/faq-app/static/js/runtime-main.1851f34c.js.map",
+    "static/js/2.82656611.chunk.js": "/faq-app/static/js/2.82656611.chunk.js",
+    "static/js/2.82656611.chunk.js.map": "/faq-app/static/js/2.82656611.chunk.js.map",
+    "static/js/3.df5edf0a.chunk.js": "/faq-app/static/js/3.df5edf0a.chunk.js",
+    "static/js/3.df5edf0a.chunk.js.map": "/faq-app/static/js/3.df5edf0a.chunk.js.map",
+    "index.html": "/faq-app/index.html",
+    "static/css/main.26734d89.chunk.css.map": "/faq-app/static/css/main.26734d89.chunk.css.map",
+    "static/js/2.82656611.chunk.js.LICENSE.txt": "/faq-app/static/js/2.82656611.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/faq-app/static/media/arrow-80.10bebdef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e19b27c.js",
+    "static/js/runtime-main.1851f34c.js",
     "static/js/2.82656611.chunk.js",
-    "static/css/main.165e8b45.chunk.css",
+    "static/css/main.26734d89.chunk.css",
     "static/js/main.8c64fe1c.chunk.js"
   ]
 }
